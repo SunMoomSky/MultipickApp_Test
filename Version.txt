@@ -1,0 +1,5 @@
+app_version=5.0.26
+snd_version=5.0.15
+ntc_version=5.0.3
+man_version=5.0.4
+ntc_url=http://seohadigital.thesome.com/bbs/board.php?bo_table=data_ms01&sca=%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD

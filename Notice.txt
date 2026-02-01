@@ -1,0 +1,3 @@
+﻿
+[VER]
+ntc_version=0.0.0
